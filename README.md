@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/directory-file-count/BergmannJustin/Hand-Recognition)
 # Hand-Recognition
 
 Das Hand Recognition Project ist eine Anwendung, die darauf abzielt, Handgesten zu erkennen. 
