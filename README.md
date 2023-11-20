@@ -41,8 +41,14 @@ Jupyter Notebook Hand-Recognition
 
 ## Anwendungsbeispiele
 
+Sicherheitssysteme:
+Zugangskontrolle = Unternehmen können Hand Recognition verwenden, um den Zugang zu sicheren Bereichen zu autorisieren. Dies könnte in Verbindung mit traditionellen Zugangskarten oder Passwörtern stehen.
 
+Interaktive Benutzerschnittstellen:
+Touchless Steuerung von Geräten = Nutzer können durch Handbewegungen digitale Bildschirme, Smartphones oder andere Geräte steuern, ohne physischen Kontakt.
 
+Virtual Reality (VR) und Augmented Reality (AR):
+Handgesten in VR/AR-Anwendungen = Spieler oder Benutzer von VR- oder AR-Anwendungen können durch Handbewegungen in der virtuellen Umgebung interagieren.
 
 
 [zurück an den Anfang](#Write-o-mat)
