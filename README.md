@@ -1,4 +1,5 @@
-![GitHub](https://img.shields.io/github/license/BergmannJustin/Hand-Recognition)
+[![Build Status](https://travis-ci.org/BergmannJustin/Hand-Recognition.svg?branch=master)](https://travis-ci.org/BergmannJustin/Hand-Recognition)
+
 # Hand-Recognition
 
 Das Hand Recognition Project ist eine Anwendung, die darauf abzielt, Handgesten zu erkennen. 
