@@ -9,7 +9,7 @@ In dem Projekt kann man die Handbewegungen ( Hello, yes, false, peace) erkennen
 ## Inhaltsverzeichnis
 
 - [Vorraussetzungen](#Vorraussetzungen)
-- [Installation/Anwendung](#Installation/Anwendung)
+- [Installation](#Installation)
 - [Anwendungsbeispiele](#Anwendungsbeispiele)
 - [Metadaten](#Metadaten)
 
@@ -24,7 +24,7 @@ In dem Projekt kann man die Handbewegungen ( Hello, yes, false, peace) erkennen
 [zurück an den Anfang](#Write-o-mat)
 
 
-## Installation/Anwendung
+## Installation
 
 Windows/Mac/Linux
 
