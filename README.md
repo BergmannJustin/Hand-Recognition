@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/BergmannJustin/Hand-Recognition.svg?branch=master)](https://travis-ci.org/BergmannJustin/Hand-Recognition)
+![GitHub](https://img.shields.io/badge/any_text-you_like-blue)
 
 # Hand-Recognition
 
