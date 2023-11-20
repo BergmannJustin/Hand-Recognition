@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/run_with-Mac-red)
+![GitHub](https://img.shields.io/badge/run_on-Mac-red)
 
 # Hand-Recognition
 
