@@ -24,7 +24,7 @@ In dem Projekt kann man die Handbewegungen ( Hello, yes, false, peace) erkennen
 [zurück an den Anfang](#Write-o-mat)
 
 
-## Installation und Anwendung
+## Installation/Anwendung
 
 Windows/Mac/Linux
 
