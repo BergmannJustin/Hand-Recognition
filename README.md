@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/any_text-you_like-blue)
+![GitHub](https://img.shields.io/badge/run with -Mac-red)
 
 # Hand-Recognition
 
