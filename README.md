@@ -14,10 +14,6 @@ In dem Projekt kann man die Handbewegungen ( Hello, yes, false, peace) erkennen
 - [Metadaten](#Metadaten)
 
 
-
-[zurück an den Anfang](#Write-o-mat)
-
-
 ## Vorraussetzungen
 
 - Englisch/Deutsch Kenntnisse, da das gesamte System auf Englisch/Deutsch läuft
