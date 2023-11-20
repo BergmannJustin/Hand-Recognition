@@ -1,1 +1,8 @@
-
+cv2
+uuid
+os
+time
+tensorflow
+pyplot
+json
+numpy
