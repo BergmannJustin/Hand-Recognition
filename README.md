@@ -31,13 +31,7 @@ In dem Projekt können die Handbewegungen ( Hello, yes, false, peace) erkannt we
 
 Windows/Mac/Linux
 
-```shell
-git clone https://github.com/BergmannJustin/Hand-Recognition
-cd Hand-Recognition
-pip install -r libraries.txt
-cd Hand-Recognition
-Jupyter Notebook Hand-Recognition
-```
+
 
 [zurück an den Anfang](#Write-o-mat)
 
