@@ -21,7 +21,7 @@ In dem Projekt können die Handbewegungen ( Hello, yes, false, peace) erkannt we
 
 - Englisch/Deutsch Kenntnisse, da das gesamte System auf Englisch/Deutsch läuft
 - Ein internetfähiger Linux/Mac/Windows basierter Computer
-- Jupyter Notebook & GitHub Kenntnisse 
+- Jupyter Notebook/Python & GitHub Kenntnisse 
 - Kenntnisse im Umgang mit der Shell Konsole
 
 [zurück an den Anfang](#Write-o-mat)
